@@ -58,17 +58,17 @@ void Square::calc()
 
 void Square::getWidth()
 {
-    cout << "\nWidth\t" << width << endl;
+    cout << "Width\t" << width << endl;
 }
 
 void Square::getLength()
 {
-    cout << "\nLength\t" << length << endl;
+    cout << "Length\t" << length << endl;
 }
 
 void Square::getSpace()
 {
-    cout << "\nSpace\t" << result << endl;
+    cout << "Space\t" << result << endl;
 }
 
 int main()
