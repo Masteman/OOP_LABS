@@ -68,7 +68,7 @@ void Square::getLength()
 
 void Square::getSpace()
 {
-    cout << "Space\t" << result << endl;
+    cout << "\nSpace\t" << result << endl;
 }
 
 int main()
