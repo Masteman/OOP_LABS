@@ -9,10 +9,8 @@
 
 4. Побудувати діаграму класів.
 
-1 варіант: студент, викладач, персона, зав кафедрою; 
-
-![image](https://user-images.githubusercontent.com/86704349/194119261-7d9af949-bfc0-4822-b4c5-3b9f5a3e8d00.png)
+![image](https://user-images.githubusercontent.com/86704349/195625433-25fd6a77-7641-41e7-92ab-e39e809a10b2.png)
 
 ---
-![image](https://user-images.githubusercontent.com/86704349/194119408-67722bbc-200c-4aef-ab30-2dd8d2f7ef23.png)
+![image](https://user-images.githubusercontent.com/86704349/195625203-99de52eb-7d6b-4996-a00f-40e3de2d37bc.png)
 
