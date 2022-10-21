@@ -10,7 +10,7 @@
 4. Побудувати діаграму класів.
 
 ![image](https://user-images.githubusercontent.com/86704349/195625433-25fd6a77-7641-41e7-92ab-e39e809a10b2.png)
-
+ 
 ---
 ![image](https://user-images.githubusercontent.com/86704349/195625203-99de52eb-7d6b-4996-a00f-40e3de2d37bc.png)
 
