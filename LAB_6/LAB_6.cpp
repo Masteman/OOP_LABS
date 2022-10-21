@@ -71,7 +71,7 @@ public:
         subject = e;
     }
 
-    void print()
+    void output()
     {
         std::cout << "Name: " << getName() << ";  Login: " << getLogin() << ";  Subject: " << getSubject() << "\n" << std::endl;
     }
@@ -103,7 +103,7 @@ public:
         faculty = f;
     }
 
-    void print()
+    void output()
     {
         std::cout << "Name: " << getName() << ";  Login: " << getLogin() << ";  Subject: " << getSubject() << ";  Faculty: " << getFaculty() << "\n" << std::endl;
     }
@@ -135,7 +135,7 @@ public:
         education_form = e;
     }
 
-    void print()
+    void output()
     {
         std::cout << "Persona: " << getName() << ";  Login: " << getLogin() << ";  Education Form: " << getEducation() << "\n" << std::endl;
     }
@@ -144,11 +144,11 @@ public:
 int main()
 {
     Teacher teacher("Misura", "Karate_Covid", "DCP / Optimization of Beer Production");
-    teacher.print();
+    teacher.output();
 
     Head_of_faculty head_f("Glazunova", "Super_Dekan_3000", "System Analysis", "Faculty of Information Technology");
-    head_f.print();
+    head_f.output();
 
     Student student("Valentine", "Pepsikolniy", "Budget");
-    student.print();
+    student.output();
 }
