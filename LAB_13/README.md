@@ -8,5 +8,6 @@
 1. Квіткарка. Визначити ієрархію квітів. Створити кілька об'єктів-квітів. Зібрати букет з визначенням його вартості.
 
 ---
-![image](https://user-images.githubusercontent.com/86704349/194119408-67722bbc-200c-4aef-ab30-2dd8d2f7ef23.png)
+![image](https://user-images.githubusercontent.com/86704349/198315465-c3e8fc4a-c76b-4e2a-abd3-6829e1d4bfe2.png)
+
 
