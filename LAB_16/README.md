@@ -5,7 +5,10 @@
 
 2. Створити подію, яка пов’язана з натисканням на клавіатурі символа, з которого починається ваше ім’я. Метод-обробник цієї події виводить ваше ім’я повністю..
 
+
+![image](https://user-images.githubusercontent.com/86704349/198358548-831fdc3f-8517-4bf2-bd7b-89b3f5a6287f.png)
+
 ---
-![image](https://user-images.githubusercontent.com/86704349/198315465-c3e8fc4a-c76b-4e2a-abd3-6829e1d4bfe2.png)
+![image](https://user-images.githubusercontent.com/86704349/198358419-b8b257f5-e5fb-4f3b-90ae-dda07fcc0f4b.png)
 
 
