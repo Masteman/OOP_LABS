@@ -76,7 +76,7 @@ namespace code
 
         private static void Main()
         {
-            var salad = new List<Flowers>
+            var bouquet = new List<Flowers>
             {
                 new Rose("red", 540),
                 new Tulip("blue", 201),
@@ -85,7 +85,7 @@ namespace code
 
             double totalPrice = 0;
 
-            foreach (var item in salad)
+            foreach (var item in bouquet)
             {
                 Console.WriteLine($"{item}");
                 totalPrice += item.Price;
